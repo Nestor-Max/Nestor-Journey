@@ -1,0 +1,1 @@
+var myList = [["Roasted Fish", 1200],["Bread and Fried Egg",500],["Rice and Beans", 450],["Pizza Burger", 500],["Mixed Rice", 500]];
